@@ -1,8 +1,8 @@
 <?php
 
-function sfdump()
+function sfdump(...$vars)
 {
-    foreach (func_get_args() as $var) {
+    foreach ($vars as $var) {
         \Symfony\Component\VarDumper\VarDumper::dump($var);
     }
 }
