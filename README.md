@@ -1,7 +1,7 @@
 Contao Symfony VarDumper Component
 ==========================
 
-This Contao Open Source CMS extension gives you the ability to use the Symfony VarDumper component in Contao with sfdump().
+This Contao Open Source CMS extension gives you the ability to use the Symfony VarDumper component in Contao with `sfdump()`.
 
 [![Author](http://img.shields.io/badge/author-@1upgmbh-blue.svg?style=flat-square)](https://twitter.com/1upgmbh)
 [![Software License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
